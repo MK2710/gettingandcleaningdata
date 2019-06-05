@@ -1,4 +1,4 @@
-This README explainss how the original dataset was tidied and reduced to
+﻿This README explainss how the original dataset was tidied and reduced to
 the final smaller dataset.
 
 The original data and README was obtained from
@@ -18,7 +18,7 @@ accelerometer. For more information read the original README, availabe
 under the provided link.
 
 This dataset consists of this README, a codebook
-(Codebook\_tidy\_dataset.Rmd) and the final tidy dataset (tidy\_data).
+(Codebook\_tidy\_dataset.md) and the final tidy dataset (tidy\_data).
 
 To read the data into R use the read.table("tidy\_data") command, it
 might be necessary to adjust your file path.
